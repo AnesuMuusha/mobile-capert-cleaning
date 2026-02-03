@@ -14,7 +14,7 @@ export function Header() {
       <div className="bg-primary text-primary-foreground py-2">
         <div className="container mx-auto px-4 flex flex-col sm:flex-row justify-between items-center gap-2 text-sm">
           <div className="flex items-center gap-6">
-            <a href="tel:+27123456789" className="flex items-center gap-2 hover:opacity-80 transition-opacity">
+            <a href="tel:+27689674644" className="flex items-center gap-2 hover:opacity-80 transition-opacity">
               <Phone className="h-4 w-4" />
               <span>068 967 4644</span>
             </a>

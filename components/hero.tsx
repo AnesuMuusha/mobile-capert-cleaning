@@ -81,9 +81,9 @@ export function Hero() {
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4">
               <Button size="lg" asChild className="text-lg px-8">
-                <a href="tel:+27123456789">
+                <a href="tel:+27689674644">
                   <Phone className="mr-2 h-5 w-5" />
-                  Call Now: 012 345 6789
+                  Call Now: 068 967 4644
                 </a>
               </Button>
             </div>
